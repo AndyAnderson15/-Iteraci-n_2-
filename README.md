@@ -1,2 +1,2 @@
-# -Iteraci-n_2-
+# Iteración 2
 Segundo avance del proyecto integrador
